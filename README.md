@@ -1,8 +1,9 @@
 - Name: JoBe, JoBeGaming
 - Age: Unknown
 - Pronouns: Male 🗿
-- Languages: Python, Arduino, Java
-- Fun fact: Waffles 🧇 would win in a War against Pancakes 🥞 
+- Languages: Python, Arduino, mabye Java and C's
+- Fun fact: Waffles 🧇 would win in a War against Pancakes 🥞
+- Place: Europe (Germany)
 
 <!---
 JoBeGaming/JoBeGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
