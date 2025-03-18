@@ -2,6 +2,8 @@
 - Pronouns: Male 
 - Languages: Python, Arduino, some Java and Kotlin
 - Place: Europe (Germany)
+- GitHub: @jobe5446
+- Currently Playing: Minecraft 
 
 <!---
 JoBeGaming/JoBeGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
