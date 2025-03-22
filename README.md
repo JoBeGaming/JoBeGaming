@@ -1,4 +1,8 @@
-css: https://github.com/JoBeGaming/JoBeGaming/blob/main/src/style.css
+<style>
+  img {
+    
+  }
+</style>
 
 <div align="center">
   <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=true" alt="Profile Picture"/>
