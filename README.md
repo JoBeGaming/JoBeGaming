@@ -1,5 +1,7 @@
+css: https://github.com/JoBeGaming/JoBeGaming/blob/main/src/style.css
+
 <div align="center">
-  <img height="150" src="https://github.com/JoBeGaming/JobeGaming/src/Profile.png?raw=true" alt="Profile Picture"/>
+  <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=true" alt="Profile Picture"/>
 </div>
 
 - Name: JoBe, JoBeGaming
