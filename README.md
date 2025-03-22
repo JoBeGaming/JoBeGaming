@@ -2,7 +2,7 @@
 - Pronouns: Male 
 - Languages: Python, Arduino, some Java and Kotlin
 - Place: Europe (Germany)
-- GitHub: @jobe5446
+- Discord: @jobe5446
 - Currently Playing: Minecraft 
 
 <!---
