@@ -8,10 +8,12 @@
 <!--General Stuff-->
 - Name: JoBe, JoBeGaming
 - Pronouns: Male 
-- Languages: Python, Arduino, some Java and Kotlin
-- Place: Europe (Germany)
+- Place: Germany
 - Discord: @jobe5446
 - Currently Playing: Minecraft 
+
+<!--Lanugages-->
+<h3 align="left">Languages</h3>
 
 <!--Stats-->
 <h3 align="left">Stats</h3>
