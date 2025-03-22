@@ -1,8 +1,8 @@
 <!--Readme.md-->
 
 <!--Profile Picture-->
-<div style="text-align: center;">
-  <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=true" alt="Profile Picture"/>
+<div align="center">
+  <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=True" alt="Profile Picture"/>
 </div>
 
 <!--General Stuff-->
