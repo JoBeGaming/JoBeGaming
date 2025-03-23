@@ -14,7 +14,7 @@
 
 <!--Lanugages-->
 <h3 align="left">Languages</h3>
-- Python
+Python
 - Kotlin
 - Java
 - Arduino
