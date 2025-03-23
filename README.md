@@ -6,20 +6,24 @@
 </div>
 
 <!--General Stuff-->
-- Name: JoBe, JoBeGaming
-- Pronouns: Male 
-- Place: Germany
-- Discord: @jobe5446
-- Currently Playing: Minecraft 
+<h3 align="left">General</h3>
+<ul>
+  <li>Name: JoBe, JoBeGaming</li>
+  <li>Gender: Male</li>
+  <li>Discord: <a href="https://discord.com/users/977455539531444246">@jobe5446</a></li>
+  <li>Currently Playing: Minecraft</li>
+</ul>
 
 <!--Lanugages-->
 <h3 align="left">Languages</h3>
-Python
-- Kotlin
-- Java
-- Arduino
-- C
-- All of my own Languages 
+<ul>
+  <li>Python</li>
+  <li>Kotlin</li>
+  <li>Java</li>
+  <li>Arduino</li>
+  <li>C</li>
+  <li>My own Languages</li>
+</ul>
 
 <!--Stats-->
 <h3 align="left">Stats</h3>
