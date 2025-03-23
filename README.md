@@ -14,6 +14,12 @@
 
 <!--Lanugages-->
 <h3 align="left">Languages</h3>
+- Python
+- Kotlin
+- Java
+- Arduino
+- C
+- All of my own Languages 
 
 <!--Stats-->
 <h3 align="left">Stats</h3>
