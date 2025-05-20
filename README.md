@@ -21,8 +21,7 @@
   <li>Kotlin</li>
   <li>Java</li>
   <li>Arduino</li>
-  <li>C</li>
-  <li>My own Languages</li>
+  <li>My own Language(s)</li>
 </ul>
 
 <!--Stats-->
