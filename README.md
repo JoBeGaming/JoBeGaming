@@ -14,6 +14,10 @@
   <li>Currently Playing: Minecraft</li>
 </ul>
 
+<!--Facts-->
+<h3 align="left">What I like</h3>
+Huge fan of the Python Typing System. However there are things to improve and problems, which i am trying to solve.
+
 <!--Lanugages-->
 <h3 align="left">Languages</h3>
 <ul>
