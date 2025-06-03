@@ -1,5 +1,9 @@
 <!--Readme.md-->
 
+<!--
+We use html formatting, as that should be the most widely adopted system
+-->
+
 <!--Profile Picture-->
 <div align="center">
   <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=True" alt="Profile Picture"/>
@@ -23,7 +27,6 @@ Huge fan of the Python Typing System. However there are things to improve and pr
 <ul>
   <li>Python</li>
   <li>Kotlin</li>
-  <li>Java</li>
   <li>Arduino</li>
   <li>My own Language(s)</li>
 </ul>
