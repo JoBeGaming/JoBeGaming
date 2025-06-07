@@ -21,7 +21,7 @@ We use html formatting, as that should be the most widely adopted system
 <h3 align="left">What I like</h3>
 Huge fan of the Python Typing System. However there are things to improve and problems, which i am trying to solve.
 
-<!--Lanugages-->
+<!--Languages-->
 <h3 align="left">Languages</h3>
 <ul>
   <li>Python</li>
