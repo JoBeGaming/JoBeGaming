@@ -14,7 +14,6 @@ We use html formatting, as that should be the most widely adopted system
 <ul>
   <li>Name: JoBe, JoBeGaming</li>
   <li>Gender: Male</li>
-  <li>Discord: <a href="https://discord.com/users/977455539531444246">@jobe5446</a></li>
   <li>Currently Playing: Minecraft</li>
 </ul>
 
