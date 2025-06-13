@@ -33,5 +33,5 @@ Huge fan of the Python Typing System. However there are things to improve and pr
 <!--Stats-->
 <h3 align="left">Stats</h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jobegaming&show_icons=true&theme=tokyonight&locale=en" alt="Github statistics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jobegaming&show_icons=true&theme=tokyonight&locale=en&cache_seconds=60" alt="Github statistics" />
 </div>
