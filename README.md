@@ -1,7 +1,7 @@
 <!--Readme.md-->
 
 <!--
-We use html formatting, as that should be the most widely adopted system
+We use html formatting, as that should be the most widely adopted system, and it should be easier to format for a website.
 -->
 
 <!--Profile Picture-->
