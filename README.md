@@ -37,5 +37,5 @@ Huge fan of the Python Typing System. However there are things to improve and pr
   <hr></hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat..."/>
   <hr></hr>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this stat..."/> <!-- should work-->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this stat..."/>
 </div>
