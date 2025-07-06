@@ -1,7 +1,7 @@
 <!--Readme.md-->
 
 <!--
-We use html formatting, as that should be the most widely adopted system, and it should be easier to format for my website.
+We use HTML-formatting, as that should be the most widely adopted system, and it should be easier to port for my website.
 -->
 
 <!--Profile Picture-->
@@ -27,7 +27,7 @@ Huge fan of the Python Typing System. However there are things to improve and pr
   <li>Python</li>
   <li>Kotlin</li>
   <li>Arduino</li>
-  <li>My own Language(s)</li> <!--TODO: Add link here!-->
+  <li>My own Language(s)</li> <!--TODO: Add link here, add icons??-->
 </ul>
 
 <!--Stats-->
