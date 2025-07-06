@@ -27,7 +27,7 @@ Huge fan of the Python Typing System. However there are things to improve and pr
   <li>Python</li>
   <li>Kotlin</li>
   <li>Arduino</li>
-  <li>My own Language(s)</li> <!--TODO: Add link here, add icons??-->
+  <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
 <!--Stats-->
