@@ -40,5 +40,5 @@ Huge fan of the Python Typing System. However there are things to improve and pr
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Streak-->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this stat..."/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this statistic. Note that this is an (expected) error with the GitHub API."/>
 </div>
