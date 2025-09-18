@@ -27,6 +27,7 @@ Huge fan of the Python Typing System. However there are things to improve and pr
     <li>Python</li>
     <li>Kotlin</li>
     <li>Arduino</li>
+    <li>C</li>
     <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
@@ -40,5 +41,5 @@ Huge fan of the Python Typing System. However there are things to improve and pr
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Streak-->
-    <img align="center" src="https://streak-stats.demolab.com?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this statistic. Note that this is an (expected) error with the GitHub API."/>
+    <img align="center" src="https://streak-stats.demolab.com?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this statistic. Note that this is a (somewhat expected) error with the GitHub API."/>
 </div>
