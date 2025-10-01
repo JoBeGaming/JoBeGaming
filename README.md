@@ -4,6 +4,8 @@
 We use HTML-formatting, as that should be the most widely adopted system, and it should be easier to port for my website.
 -->
 
+<!--markdownlint-disable MD033 MD041-->
+
 <!--Profile Picture-->
 <div align="center">
     <img height="150" src="https://github.com/JoBeGaming/JoBeGaming/blob/main/src/Profile.png?raw=True" alt="Profile Picture"/>
