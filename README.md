@@ -42,10 +42,10 @@ If you'd like to collaborate on any one of my projects, feel free to send me a n
 <h3 align="left">Stats</h3>
 <div align="center">
     <!--All-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Cannot load this stat... (Try reloading this page)"/>
+    <!--Currenly down<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Languages-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
+    <!--Currently down<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Streak-->
     <img align="center" src="https://streak-stats.demolab.com?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this statistic. Note that this is a (somewhat expected) error with the GitHub API."/>
