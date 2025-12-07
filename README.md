@@ -26,12 +26,14 @@ Huge fan of the Python Typing System. However there are things to improve and pr
 
 <!--Languages-->
 <h3 align="left">Languages</h3>
-<ul>
+<ul><!--todo: add all langs-->
     <li>Python</li>
-    <li>Kotlin</li>
+    <li>Java/Kotlin</li>
     <li>Arduino</li>
     <li>C</li>
-    <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
+    <li>js/ts</li>
+    <li>Assembly</li>
+    <!-- tbd <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
 If you'd like to collaborate on any one of my projects, feel free to send me a notification on Discord.
