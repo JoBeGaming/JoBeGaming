@@ -42,7 +42,8 @@ If you'd like to collaborate on any one of my projects, feel free to send me a n
 <h3 align="left">Stats</h3>
 <div align="center">
     <!--All-->
-    <!--Currenly down<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Cannot load this stat... (Try reloading this page)"/>
+    <!--Note that `#gh-light-mode-only` and ``#gh-dark-mode-only` is not supported in HTML syntax.-->
+    <img align="center" src="https://github-readme-stats.zcy.dev/api?username=jobegaming&count_private=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true&hide_border=false" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Languages-->
     <!--Currently down<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBeGaming&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
