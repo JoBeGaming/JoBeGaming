@@ -36,7 +36,7 @@ Huge fan of the Python Typing System. However there are things to improve and pr
     <!-- tbd <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
-If you'd like to collaborate on any one of my projects, feel free to send me a notification on Discord.
+If you'd like to collaborate on any one of my projects, feel free to send me a message on Discord.
 
 <!--Stats-->
 <h3 align="left">Stats</h3>
