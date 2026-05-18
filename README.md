@@ -32,7 +32,7 @@ Huge fan of the Python Typing System. However there are things to improve and pr
     <li>C</li>
     <li>Assembly</li>
     <li>Arduino</li>
-    <li>Jacascript/Typescript</li>
+    <li>Javascript/Typescript</li>
     <!-- tbd <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
