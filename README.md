@@ -43,10 +43,10 @@ If you'd like to collaborate on any one of my projects, feel free to send me a m
 <div align="center">
     <!--All-->
     <!--Note that `#gh-light-mode-only` and ``#gh-dark-mode-only` is not supported in HTML syntax.-->
-    <img align="center" src="https://github-readme-stats.zcy.dev/api?username=jobegaming&count_private=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true&hide_border=false" alt="Cannot load this stat... (Try reloading this page)"/>
+    <img align="center" src="https://github-readme-stats.zcy.dev/api?username=jobegaming&count_private=true&show=prs_merged,prs_merged_percentage,reviews&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Languages-->
-    <img align="center" src="https://github-readme-stats.zcy.dev/api/top-langs?username=jobegaming&count_private=true&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Cannot load this stat... (Try reloading this page)"/>
+    <img align="center" src="https://github-readme-stats.zcy.dev/api/top-langs?username=jobegaming&count_private=true&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=6&include_all_commits=true" alt="Cannot load this stat... (Try reloading this page)"/>
     <hr></hr>
     <!--Streak-->
     <img align="center" src="https://streak-stats.demolab.com?user=JoBeGaming&theme=tokyonight&hide_border=false" alt="Cannot load this statistic. Note that this is a (somewhat expected) error with the GitHub API."/>
