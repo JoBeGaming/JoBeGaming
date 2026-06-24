@@ -22,7 +22,12 @@ We use HTML-formatting, as that should be the most widely adopted system, and it
 
 <!--Facts-->
 <h3 align="left">What I like</h3>
-Huge fan of the Python Typing System. However there are things to improve and problems, which i am trying to solve. I also like building and designing CPUs, Emulators, Assemblers and generally low-level stuff.
+Huge fan of the Python Typing System. However there are things to improve and problems, which I am trying to solve. I also like building and designing CPUs & ISAs, Emulators, Assemblers and generally low-level stuff.
+
+<h3 align="left">What I dislike</h3>
+Windows when it doesn't work.
+Git when there are merge conflicts or pulling something means deleting all my work.
+VSCode when it breaks.
 
 <!--Languages-->
 <h3 align="left">Languages</h3>
