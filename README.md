@@ -32,16 +32,16 @@ VSCode when it breaks.
 <!--Languages-->
 <h3 align="left">Languages</h3>
 <ul>
-    <li>Python</li>
-    <li>Java/Kotlin</li>
-    <li>C</li>
-    <li>Assembly</li>
-    <li>Arduino</li>
-    <li>Javascript/Typescript</li>
+    <li><a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=python&sort=">Python</a></li>
+    <li><a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=java&sort=">Java</a>/<a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=kotlin&sort=">Kotlin</a></li>
+    <li><a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=c&sort=">C</a></li>
+    <li><a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=assembly&sort=">Assembly</a></li>
+    <li><!--<a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=arduino&sort=">-->Arduino<!--</a>--></li> <!--TODO: Doesn't exist for GH Linguist :(-->
+    <li><a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=javascript&sort=">Javascript</a>/<a href="https://github.com/JoBeGaming?tab=repositories&q=&type=&language=typescript&sort=">Typescript</a></li>
     <!-- tbd <li>My own <a href="https://github.com/JoBeGaming?tab=repositories">Language(s)</a></li> <!--TODO: Add icons, Group Langs GH-->
 </ul>
 
-If you'd like to collaborate on any one of my projects, feel free to send me a message on Discord.
+Note that not everything I do is public (yet). If you'd like to see some other stuff I'm working on, message me on discord, or check out the organizations I'm in. You can also reach out to me if you'd like to collaborate on any one of my projects.
 
 <!--Stats-->
 <h3 align="left">Stats</h3>
